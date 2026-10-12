@@ -1,5 +1,7 @@
 # DEVOPS-001 — Architekturvorschlag für die AWS-Infrastruktur
 
+**Sprache:** [English](architecture-proposal.md) | [한국어](architecture-proposal.ko.md) | **[Deutsch](architecture-proposal.de.md)**
+
 - **Projekt:** Production Infrastructure Foundation
 - **Rolle:** DevOps Engineer
 - **Cloud-Anbieter:** Amazon Web Services (AWS)
